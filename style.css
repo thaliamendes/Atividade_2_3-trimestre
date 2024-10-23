@@ -1,0 +1,43 @@
+main {background-color: rgb(128, 221, 190);
+    color: darkgoldenrod;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+    border-right: 5%;
+    border-left: 5%;
+
+}
+header{color: darkgoldenrod;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+    border-right: 4%;
+    border-left: 4%;
+    background-color: rgb(73, 170, 138);
+}
+footer{color: darkgoldenrod;
+    background-color: aquamarine;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+    border-right: 5%;
+    border-left: 5%;
+}
+#ima1{width: 50%;
+    border-width: 10px;
+    border-color: black;
+    border-style: double;
+    border-right: 5%;
+    border-left: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#ima2{ width: 50%;
+    border-width: 10px;
+    border-color: black;
+    border-style: double;
+    border-right: 5%;
+    border-left: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
