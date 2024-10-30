@@ -31,6 +31,7 @@ footer{color: darkgoldenrod;
     border-left: 5%;
     margin-left: 15%;
     margin-right: 30%;
+    ;
 }
 #ima2{ width: 50%;
     border-width: 10px;
@@ -41,11 +42,11 @@ footer{color: darkgoldenrod;
     margin-left: 15%;
     margin-right: 30%;
 }
-h1{margin-left: 20%;
-   margin-right: 20%;
+h1{padding-left: 20%;
+   padding-right: 20%;
    text-align: center;
 }
-h2{margin-left: 20%;
-  margin-right: 20%;
+h2{padding-right: 20%;
+  padding-left: 20%;
   text-align: center;
 }
